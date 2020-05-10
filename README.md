@@ -25,26 +25,29 @@ Here’s the best part: after I did the initial configuration and setup ***every
 Again, all of that happens automatically.
 
 
-<img src='img/StreamDeck-15-minute-yellow.png' align='left'>
+<img src='img/StreamDeck-15-minute-yellow.png' align='left'> When it gets to 15 minutes or less, the button turns yellow.
 
-When it gets to 15 minutes or less, the button turns yellow. Because by now I should be getting ready. If we’re meeting on Zoom (and, let’s face it, we probably are) I need to make sure that I’m set up for that.
+Yellow means “HEY! It’s time to get ready now!”
 
-![Stream Deck with button now orange](img/StreamDeck-10-minute-orange.png)
+If we’re meeting on Zoom (and, let’s face it, we probably are) I need to make sure that I’m set up for that. By which I mean that I probably need to comb my hair and put on a nicer shirt.
 
-When it gets to 10 minutes or less, the button goes to orange. That’s a step up from yellow, but not quite red, and says “No, seriously, stop what you’re doing and get ready.”
+<img src='img/StreamDeck-10-minute-orange.png' align='left'> 10 minutes and counting!
 
-![Stream Deck with button now red](img/StreamDeck-05-minute-red.png)
+Orange is the Patron Saint of “No, Really, Stop what you are doing and _get ready!_”
 
-When it gets to 5 minutes or less, now the button goes RED as in RED ALERT!
+It’s a step up from yellow, but not quite red.
 
-You can imagine the Star Trek klaxon sounding. Or you could [grab this clip from YouTube](https://www.youtube.com/watch?v=Hi1GVeIzo4Q) and make Keyboard Maestro play the sound if you want. _Warning: Do not do that if you live / work with others who will hear it. I will not be held responsible for your divorce and/or murder if you do._
+This is the voice your Mom used when she had to ask you to do something that she asked you to do before, but you forgot.
 
+<img src='img/StreamDeck-05-minute-red.png' align='left'> 5 minutes or less, now the button goes RED as in RED ALERT!
 
-But what I really want to see is… “Fantastipal”!
+You should imagine the _Star Trek_ klaxon sounding.
 
-![Fantastipal!](img/Fantastipal-small.jpg)
+Or you could [grab this clip from YouTube](https://www.youtube.com/watch?v=Hi1GVeIzo4Q) and make Keyboard Maestro play the sound before every meeting, if you want. _Warning: Do not do that if you live / work with others who will hear it. I will not be held responsible for your divorce and/or murder if you do._
 
-This happy little guy is from [Flexibits](https://flexibits.com), the folks who make [Fantastical](https://flexibits.com/fantastical), which is the best calendar on Mac and iOS _{yeah yeah IMO, but really, it is}_.
+**But what I really want to see is… “Fantastipal”!**
+
+<img src='img/Fantastipal-small.jpg' align='left'> This happy little guy is from [Flexibits](https://flexibits.com), the folks who make [Fantastical](https://flexibits.com/fantastical), which is the best calendar on Mac and iOS _{yeah yeah IMO, but really, it is}_.
 
 I saw this guy one day on my iPad when I had no meetings, and [reached on on Twitter](https://twitter.com/flexibits/status/1246146833837101056) to find out where I could find a photo of him, because _look how cute he is!_ He’s clearly happy that you have no more meetings today. Seriously, he cares about you, and sometimes he thinks you work too many hours, but he doesn’t want to say anything that might hurt your feelings.
 
