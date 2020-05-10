@@ -209,5 +209,13 @@ If any other developer-minded folks are interested, here is a note I received fr
 
 As a non-developer, I have no idea that that means, but I assume it makes sense to others.
 
-_fin_
+
+# Update 2020-05-10
+
+Thanks to the Flexibits folks, we now have a [Fantastipal icon with a transparent background](img/Fantastipal-1024.png) which will be used for the "Set No Meetings" macro.
+
+Also, it was pointed out to me that my Keyboard Maestro macro group was called “Steam Deck” instead of “Stream Deck”. 🤦‍♂️ We regret the error. This has also been corrected.
+
+Discussion/feedback is happening on the [Mac Power Users forum](https://talk.macpowerusers.com/t/elgato-stream-deck-xl/13687/50), or you can send it to me (my email is in the repo) or [@TJLuoma on Twitter](https://twitter.com/tjluoma).
+
 
