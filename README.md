@@ -160,7 +160,7 @@ If you try this and get `No Calendars` as a response, it’s probably because yo
 
 Version 1.10.1 (and earlier, presumably) versions of `icalBuddy` have a bug that prevents them from working with Keyboard Maestro, TextBar, launchd, and others, at least in Catalina, and probably in other versions of macOS.
 
-I have included a patched version here, but you can also get it from <https://www.dropbox.com/s/kol59eg60f4ykzb/icalBuddyFixed.zip?dl=0> if it disappears from here for some reason.
+I have included a patched version here, but [you can also get it from my Dropbox] (https://www.dropbox.com/s/kol59eg60f4ykzb/icalBuddyFixed.zip?dl=0) if it disappears from here for some reason.
 
 Unfortunately the ‘fixed’ version also reports itself as ‘1.10.1’ so it’s not easy to tell if you have the proper one or not.
 
