@@ -196,5 +196,5 @@ If any other developer-minded folks are interested, here is a note I received fr
 
 As a non-developer, I have no idea that that means, but I assume it makes sense to others.
 
-~_fin_~
+_fin_
 
