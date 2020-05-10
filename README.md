@@ -20,9 +20,7 @@ Right now, `R3C6` is telling me that I have 1 meeting left today, that meeting i
 
 Here’s the best part: after I did the initial configuration and setup ***everything else is automated.*** The meeting information comes directly from my calendar. If that meeting gets moved to 8:00 p.m. or 9:30 p.m. in my calendar, this button will show the updated information in one minute.
 
-![Stream Deck with button now blue](img/StreamDeck-30-minute-blue.png)
-
-I can hear you thinking **_”Wait, what just happened?!”_** Well, I’ll tell you what happened. The meeting was rescheduled to 8:30 p.m. instead of 9:00 p.m. and now the button has changed to a blue color. That’s my 30-minute warning, and happens before every meeting. Since the Stream Deck is always in my peripheral vision, the color change is likely to catch my eye. The blue is a nice way to say “Hey, just a reminder, your next meeting is coming up.”
+<img src='img/StreamDeck-30-minute-blue.png' align='left'> I can hear you thinking **_”Wait, what just happened?!”_** Well, I’ll tell you what happened. The meeting was rescheduled to 8:30 p.m. instead of 9:00 p.m. and now the button has changed to a blue color. That’s my 30-minute warning, and happens before every meeting. Since the Stream Deck is always in my peripheral vision, the color change is likely to catch my eye. The blue is a nice way to say “Hey, just a reminder, your next meeting is coming up.”
 
 Again, all of that happens automatically.
 
@@ -36,11 +34,9 @@ When it gets to 10 minutes or less, the button goes to orange. That’s a step u
 
 ![Stream Deck with button now red](img/StreamDeck-05-minute-red.png)
 
-When it gets to 5 minutes or less, now the button goes RED as in RED ALERT
+When it gets to 5 minutes or less, now the button goes RED as in RED ALERT!
 
-You can imagine the Star Trek klaxon sounding. Or you could [grab this clip from YouTube](https://www.youtube.com/watch?v=Hi1GVeIzo4Q) and make Keyboard Maestro play the sound if you want.
-
-_NOTE: Do not do this if you live / work with others who will hear it. I will not be held responsible for your divorce and/or murder if you do._
+You can imagine the Star Trek klaxon sounding. Or you could [grab this clip from YouTube](https://www.youtube.com/watch?v=Hi1GVeIzo4Q) and make Keyboard Maestro play the sound if you want. _Warning: Do not do that if you live / work with others who will hear it. I will not be held responsible for your divorce and/or murder if you do._
 
 
 But what I really want to see is… “Fantastipal”!
