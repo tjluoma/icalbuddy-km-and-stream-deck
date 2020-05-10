@@ -120,10 +120,11 @@ Enter these two lines in Terminal:
 
 ### Third: Download and Install the Keyboard Maestro Macros
 
-Download [Steam-Deck-Show-Meetings-8-Macros.kmmacros](macros/Steam-Deck-Show-Meetings-8-Macros.kmmacros). Note that all 8 macros are in one file. Keyboard Maestro will understand how to import them as a separate macros.
+Download [Steam-Deck-Show-Meetings-8-Macros.kmmacros](https://raw.githubusercontent.com/tjluoma/icalbuddy-km-and-stream-deck/master/macros/Steam-Deck-Show-Meetings-8-Macros.kmmacros). Note that all 8 macros are in one file. Keyboard Maestro will understand how to import them as a separate macros.
 
 Just make sure it still has `.kmmacros` as the extension after you download it (rename it if it does not), and double-click on the `.kmmacros` file.
 
+(You might want to right-click on that link and use 'Save link'.)
 
 ## Q: “I have a Stream Deck but it’s not the same size as yours, or I don’t want to use `R3C6`…”
 
