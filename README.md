@@ -84,13 +84,16 @@ Finally, the **Push = Launch Fantastical to ‘Today’ view”** button also do
 
 ## “How do I install it?”
 
-### First: Download `km-icalbuddy.sh` and `icalBuddy`
+### First: Download `km-icalbuddy.sh`, `seconds2readable.sh, and `icalBuddy`
 
 Save them as:
 
 - `/usr/local/bin/km-icalbuddy.sh`
 
 - `/usr/local/bin/icalBuddy`
+
+- `/usr/local/bin/seconds2readable.sh`
+
 
 **NOTE: you need to edit _ONE LINE_ of `km-icalbuddy.sh` in a text editor.**
 
@@ -116,6 +119,8 @@ Enter these two lines in Terminal:
 	chmod 755 /usr/local/bin/icalBuddy
 
 	chmod 755 /usr/local/bin/km-icalbuddy.sh
+
+	chmod 755 /usr/local/bin/seconds2readable.sh
 
 
 ### Third: Download and Install the Keyboard Maestro Macros
