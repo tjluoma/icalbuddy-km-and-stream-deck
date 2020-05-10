@@ -124,7 +124,7 @@ Download [Steam-Deck-Show-Meetings-8-Macros.kmmacros](https://raw.githubusercont
 
 Just make sure it still has `.kmmacros` as the extension after you download it (rename it if it does not), and double-click on the `.kmmacros` file.
 
-(You might want to right-click on that link and use 'Save link'.)
+**Safari Users:** Safari _really_ wants to rename the file `Steam-Deck-Show-Meetings-8-Macros.kmmacros.txt` so be sure to get rid of the `.txt`
 
 ## Q: “I have a Stream Deck but it’s not the same size as yours, or I don’t want to use `R3C6`…”
 
