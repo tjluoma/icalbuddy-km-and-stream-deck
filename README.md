@@ -29,7 +29,9 @@ Again, all of that happens automatically.
 
 Yellow means “HEY! It’s time to get ready now!”
 
-If we’re meeting on Zoom (and, let’s face it, we probably are) I need to make sure that I’m set up for that. By which I mean that I probably need to comb my hair and put on a nicer shirt.
+If we’re meeting on Zoom (and, let’s face it, we probably are) I need to make sure that I’m set up for that.
+
+By which I mean that I probably need to comb my hair and put on a nicer shirt.
 
 <img src='img/StreamDeck-10-minute-orange.png' align='left'> 10 minutes and counting!
 
