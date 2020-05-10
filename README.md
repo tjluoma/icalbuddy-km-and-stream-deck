@@ -155,6 +155,8 @@ Again, you can specify _which_ calendars it uses, so choose only the ones with m
 
 ## macOS will probably warn you that Keyboard Maestro and/or icalBuddy want to access your calendar data
 
+You may need to go to Security Preferences and allow `icalbuddy` to run, access your calendar/reminders.
+
 That’s to be expected, but I just wanted to mention it so no one was surprised.
 
 It should only happen once.
