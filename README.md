@@ -148,6 +148,11 @@ This is not considered a bug, as it can be solved by NOT scheduling overlapping 
 
 Again, you can specify _which_ calendars it uses, so choose only the ones with meetings/events that you plan to attend. And you can only attend one event at a time. This script does not support human cloning.
 
+## macOS will probably warn you that Keyboard Maestro and/or icalBuddy want to access your calendar data
+
+That’s to be expected, but I just wanted to mention it so no one was surprised.
+
+It should only happen once.
 
 ## Very Technical Details About `icalBuddy`
 
