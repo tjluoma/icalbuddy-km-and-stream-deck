@@ -25,7 +25,7 @@ Here’s the best part: after I did the initial configuration and setup ***every
 Again, all of that happens automatically.
 
 
-<img src='img/StreamDeck-15-minute-yellow.png' align='left'> When it gets to 15 minutes or less, the button turns yellow.
+<img src='img/StreamDeck-15-minute-yellow.png' align='left'> **When it gets to 15 minutes or less, the button turns yellow.**
 
 Yellow means “HEY! It’s time to get ready now!”
 
@@ -33,15 +33,15 @@ If we’re meeting on Zoom (and, let’s face it, we probably are) I need to mak
 
 By which I mean that I probably need to comb my hair and put on a nicer shirt.
 
-<img src='img/StreamDeck-10-minute-orange.png' align='left'> 10 minutes and counting!
+<img src='img/StreamDeck-10-minute-orange.png' align='left'> **10 minutes and counting!**
 
 Orange is the Patron Saint of “No, Really, Stop what you are doing and _get ready!_”
 
 It’s a step up from yellow, but not quite red.
 
-This is the voice your Mom used when she had to ask you to do something that she asked you to do before, but you forgot.
+This is the voice your Mom used when she had to ask you to do something that she asked you to do before, but you forgot. You did not want her to have to use that voice, but sometimes she had to.
 
-<img src='img/StreamDeck-05-minute-red.png' align='left'> 5 minutes or less, now the button goes RED as in RED ALERT!
+<img src='img/StreamDeck-05-minute-red.png' align='left'> **5 minutes or less, now the button goes RED as in RED ALERT!**
 
 You should imagine the _Star Trek_ klaxon sounding.
 
