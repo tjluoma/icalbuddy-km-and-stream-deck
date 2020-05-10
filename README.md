@@ -24,7 +24,8 @@ Here’s the best part: after I did the initial configuration and setup ***every
 
 Again, all of that happens automatically.
 
-![Stream Deck with button now yellow](img/StreamDeck-15-minute-yellow.png)
+
+<img src='img/StreamDeck-15-minute-yellow.png' align='left'>
 
 When it gets to 15 minutes or less, the button turns yellow. Because by now I should be getting ready. If we’re meeting on Zoom (and, let’s face it, we probably are) I need to make sure that I’m set up for that.
 
