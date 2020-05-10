@@ -49,7 +49,7 @@ Or you could [grab this clip from YouTube](https://www.youtube.com/watch?v=Hi1GV
 
 **But what I really want to see is… “Fantastipal”!**
 
-<img src='img/Fantastipal-small.jpg' align='left'> This happy little guy is from [Flexibits](https://flexibits.com), the folks who make [Fantastical](https://flexibits.com/fantastical), which is the best calendar on Mac and iOS _{yeah yeah IMO, but really, it is}_.
+<img src='img/Fantastipal-small.png' align='left'> This happy little guy is from [Flexibits](https://flexibits.com), the folks who make [Fantastical](https://flexibits.com/fantastical), which is the best calendar on Mac and iOS _{yeah yeah IMO, but really, it is}_.
 
 I saw this guy one day on my iPad when I had no meetings, and [reached on on Twitter](https://twitter.com/flexibits/status/1246146833837101056) to find out where I could find a photo of him, because _look how cute he is!_ He’s clearly happy that you have no more meetings today. Seriously, he cares about you, and sometimes he thinks you work too many hours, but he doesn’t want to say anything that might hurt your feelings.
 
