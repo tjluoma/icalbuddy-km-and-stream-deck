@@ -6062,7 +6062,7 @@
 						<key>MacroActionType</key>
 						<string>ExecuteShellScript</string>
 						<key>Path</key>
-						<string>/usr/local/scripts/km-icalbuddy.sh</string>
+						<string>/usr/local/bin/km-icalbuddy.sh</string>
 						<key>Source</key>
 						<string>Nothing</string>
 						<key>Text</key>
