@@ -114,14 +114,17 @@ You get the idea.
 
 ### Second: Make Sure They Are Executable
 
-Enter these two lines in Terminal:
+Enter these four lines in Terminal:
 
 	chmod 755 /usr/local/bin/icalBuddy
+
+	xattr -r -d /usr/local/bin/icalBuddy
 
 	chmod 755 /usr/local/bin/km-icalbuddy.sh
 
 	chmod 755 /usr/local/bin/seconds2readable.sh
 
+Note: the 3 `chmod` lines are for executability. The `xattr` line is because the `icalBuddy` is not made by a known developer and Gatekeeper will prevent it from running otherwise.
 
 ### Third: Download and Install the Keyboard Maestro Macros
 
