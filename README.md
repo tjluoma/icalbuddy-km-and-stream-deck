@@ -118,7 +118,7 @@ Enter these four lines in Terminal:
 
 	chmod 755 /usr/local/bin/icalBuddy
 
-	xattr -r -d /usr/local/bin/icalBuddy
+	xattr -r -d com.apple.quarantine /usr/local/bin/icalBuddy
 
 	chmod 755 /usr/local/bin/km-icalbuddy.sh
 
