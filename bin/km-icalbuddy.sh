@@ -59,7 +59,7 @@ AMPM=$(icalBuddy \
 
 	# icalBuddy uses '• ' as the first characters of any line which has an event title
 	# so we can count those and see how many events we have coming up
-EVENT_COUNT=$(echo "${AMPM}" | egrep '^• ' | wc -l | tr -dc '[0-2]')
+EVENT_COUNT=$(echo "${AMPM}" | egrep '^• ' | wc -l | tr -dc '[0-9]')
 
 	## if there are NONE then it either means that this script had some kind of silent
 	## failure, or it means that you don't have any more meetings scheduled for today.
@@ -125,7 +125,7 @@ then
 	NEXT_END_TIME=$(echo   "${NEXT}" | tail -1 | awk '{print $3}')
 
 		## This will show us how many more events there are
-	REMAINING_EVENTS_COUNT=$(echo "${AMPM}" | egrep '^• ' | wc -l | tr -dc '[0-2]')
+	REMAINING_EVENTS_COUNT=$(echo "${AMPM}" | egrep '^• ' | wc -l | tr -dc '[0-9]')
 
 else
 		## If we get here
@@ -155,7 +155,7 @@ else
 		--timeFormat '%H:%M' \
 			eventsFrom:"$NOW_END_TIME" to:"23:59")
 
-	REMAINING_EVENTS_COUNT=$(echo "$REMAINING_EVENTS" | egrep '^• ' | wc -l | tr -dc '[0-2]')
+	REMAINING_EVENTS_COUNT=$(echo "$REMAINING_EVENTS" | egrep '^• ' | wc -l | tr -dc '[0-9]')
 
 	if [[ "$REMAINING_EVENTS_COUNT" == "0" ]]
 	then
